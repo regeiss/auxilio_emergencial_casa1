@@ -1,0 +1,1 @@
+ /Users/robertoedgargeiss/ProjetosFlutter/auxilio_emergencial_casa/.dart_tool/flutter_build/898071da50b7026a2e3e1128a3afeb9b/native_assets.yaml: 
